@@ -8,4 +8,6 @@ is not performance-friendly for rendering.
 Current optimization is to reuse most part of the already rendered view data,
 and only re-render the delta part due to scroll, the same as subview recycle.  
 
-2.Support merged cell by introducing mergeId as cell's property
+2.Support merged cell by introducing mergeId as cell's property  
+3. ScreenShot
+![image]https://github.com/pheecian/TableFixHeadersBasedOnCanvas/raw/master/screenshot.jpg
