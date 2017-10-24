@@ -6,5 +6,6 @@ The optimization motivation is based on the fact that
 large scale Android ViewGroup
 is not performance-friendly for rendering.
 Current optimization is to reuse most part of the already rendered view data,
-and only re-render the delta part due to scroll, the same as subview recycle.
+and only re-render the delta part due to scroll, the same as subview recycle.  
+
 2.Support merged cell by introducing mergeId as cell's property
