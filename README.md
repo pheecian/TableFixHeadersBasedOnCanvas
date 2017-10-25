@@ -1,5 +1,5 @@
 # TableFixHeadersBasedOnCanvas
-1.Rewrite open source TableFixHeaders project as customized view
+1.Rewrite open source TableFixHeaders project [TableFixHeaders](https://github.com/inQBarna/TableFixHeaders) as customized view
 to improve the scolling performace in the case that more than
 500 cells would be shown in one screen.
 The optimization motivation is based on the fact that 
